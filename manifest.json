@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "MyPerfectice Extension",
-  "version": "0.0.1",
+  "version": "0.1",
   "devtools_page": "devtools.html",
 
   "action": {
